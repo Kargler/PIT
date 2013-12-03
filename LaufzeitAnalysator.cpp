@@ -12,7 +12,7 @@ LaufzeitAnalysator::LaufzeitAnalysator() {
 
 	laufzeitAnalyseFlag = false;
 }
-
+blaaaaaaa
 
 LaufzeitAnalysator::~LaufzeitAnalysator() {}
 
